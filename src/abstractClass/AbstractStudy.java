@@ -5,7 +5,7 @@ public abstract class AbstractStudy {
 	public static void main(String[] args) 
 	{
      
-		
+	//hello this is new commit	
 	}
 
 	public abstract void ppt(); // incomplete method without body and zero parameters
